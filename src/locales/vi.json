@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "contact": "LIÊN HỆ"
+  },
+  "hello": {
+    "title": "Xin chào,",
+    "description": "Tôi là <strong>Nguyen Huy Hoang</strong>. Một Nhà Phát Triển Phần Mềm coi trọng tính thực tiễn và hữu ích."
+  },
+  "about": {
+    "title": "Giới thiệu",
+    "name": "NGUYEN HUY HOANG",
+    "role": "Nhà Phát Triển Phần Mềm",
+    "description": "Tôi là một nhà phát triển coi trọng tính thực tiễn và hữu ích. Triết lý của tôi là \"Xây dựng sản phẩm để sử dụng, không phải để mới lạ.\" Tôi nỗ lực viết code sạch và giải pháp hiệu quả để giải quyết vấn đề thực tế.",
+    "location": "Địa điểm",
+    "locationValue": "Thái Nguyên, Việt Nam",
+    "education": "Học vấn",
+    "educationValue": "ICTU - Đại học Công nghệ Thông tin và Truyền thông"
+  },
+  "skills": {
+    "title": "Kỹ năng",
+    "favoriteStack": "Ngăn xếp yêu thích",
+    "languages": "Ngôn ngữ",
+    "frameworks": "Khung làm việc",
+    "tools": "Công cụ"
+  },
+  "projects": {
+    "title": "Dự án",
+    "cvBuilder": {
+      "title": "CV Builer Pro",
+      "type": "Ứng dụng Web – Trình tạo CV/Resume trực tuyến",
+      "desc": "Một trình tạo CV dựa trên web cho phép người dùng tạo, tùy chỉnh, xem trước và tải xuống sơ yếu lý lịch chuyên nghiệp trực tuyến."
+    },
+    "comingSoon": {
+      "title": "Sắp ra mắt..."
+    },
+    "typeLabel": "Loại"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "getInTouch": "Liên hệ",
+    "social": "Mạng xã hội",
+    "phone": "Điện thoại",
+    "copyright": "© 2026 NGUYEN HUY HOANG. TẤT CẢ QUYỀN ĐƯỢC BẢO LƯU."
+  }
+}

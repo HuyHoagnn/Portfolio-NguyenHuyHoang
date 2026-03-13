@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "contact": "CONTACT"
+  },
+  "hello": {
+    "title": "Hello,",
+    "description": "I am <strong>Nguyen Huy Hoang</strong>. A Software Developer who values practicality and utility."
+  },
+  "about": {
+    "title": "About",
+    "name": "NGUYEN HUY HOANG",
+    "role": "Software Developer",
+    "description": "I am a developer who values practicality and utility. My philosophy is to \"Build products for use, not for novelty.\" I strive for clean code and efficient solutions that solve real problems.",
+    "location": "Location",
+    "locationValue": "Thai Nguyen, Vietnam",
+    "education": "Education",
+    "educationValue": "ICTU - Information and Communication Technology University"
+  },
+  "skills": {
+    "title": "Skills",
+    "favoriteStack": "Favorite Stack",
+    "languages": "Languages",
+    "frameworks": "Frameworks",
+    "tools": "Tools"
+  },
+  "projects": {
+    "title": "Projects",
+    "cvBuilder": {
+      "title": "CV Builer Pro",
+      "type": "Web Application – Online CV/Resume Builder",
+      "desc": "A web-based CV builder that allows users to create, customize, preview, and download professional resumes online."
+    },
+    "comingSoon": {
+      "title": "Comming Soon..."
+    },
+    "typeLabel": "Type"
+  },
+  "contact": {
+    "title": "Contact",
+    "getInTouch": "Get in touch",
+    "social": "Social",
+    "phone": "Phone",
+    "copyright": "© 2026 NGUYEN HUY HOANG. ALL RIGHTS RESERVED."
+  }
+}

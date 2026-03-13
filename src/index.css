@@ -3,9 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
 
 @theme {
-  --color-ink: #F2F2F2;
-  --color-beige: #1A1A1A;
-  --color-navy: #2D3748;
+  --color-ink: #FAFAFA;          /* very light off-white background */
+  --color-beige: #111827;        /* dark slate for primary text/headings */
+  --color-navy: #1E3A8A;         /* deeper blue used for accents & links */
+  --color-accent: var(--color-navy); /* accent matches navy */
   
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-serif: "Playfair Display", serif;
@@ -27,5 +28,15 @@
   }
   .custom-scrollbar::-webkit-scrollbar-thumb {
     @apply bg-beige/10 rounded-full hover:bg-beige/20;
+  }
+  /* hero background subtle shapes */
+  .hero-bg {
+    background-image: radial-gradient(circle at 20% 30%, rgba(30,58,138,0.08), transparent 60%),
+                      radial-gradient(circle at 80% 70%, rgba(30,58,138,0.05), transparent 60%);
+  }
+  /* heading underline hover effect */
+  .link-underline:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--color-accent);
   }
 }
