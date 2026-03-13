@@ -4,13 +4,13 @@
   },
   "hello": {
     "title": "Hello,",
-    "description": "I am <strong>Nguyen Huy Hoang</strong>. A Software Developer who values practicality and utility."
+    "description": "I'm <strong>Hoang Nguyen</strong>, a Software Developer passionate about building modern web applications and continuously learning new technologies."
   },
   "about": {
     "title": "About",
     "name": "NGUYEN HUY HOANG",
     "role": "Software Developer",
-    "description": "I am a developer who values practicality and utility. My philosophy is to \"Build products for use, not for novelty.\" I strive for clean code and efficient solutions that solve real problems.",
+    "description": "I am a developer who enjoys creating modern web applications and solving real-world problems through code. I’m passionate about learning new technologies, improving my development skills, and building meaningful digital products.",
     "location": "Location",
     "locationValue": "Thai Nguyen, Vietnam",
     "education": "Education",
