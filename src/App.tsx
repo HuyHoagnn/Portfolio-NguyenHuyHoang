@@ -192,10 +192,10 @@ export default function App() {
             
             <div className="grid grid-cols-2 md:grid-cols-4 gap-12 lg:gap-24">
               {[
-                { label: t('skills.favoriteStack'), items: ["Next.js", "PostgreSQL", "Prisma"] },
-                { label: t('skills.languages'), items: ["TypeScript", "Python", "C#", "HTML"] },
+                { label: t('skills.favoriteStack'), items: ["Next.js", "PostgreSQL",] },
+                { label: t('skills.languages'), items: ["TypeScript", "JavaScript", "C#", "HTML", "PHP"] },
                 { label: t('skills.frameworks'), items: [".NET Core", "React", "Node.js"] },
-                { label: t('skills.tools'), items: ["Git", "Docker", "AI-assisted Dev"] }
+                { label: t('skills.tools'), items: ["Git", "AI-assisted Dev"] }
               ].map((group) => (
                 <div key={group.label}>
                   <Label>{group.label}</Label>
@@ -273,8 +273,8 @@ export default function App() {
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-24">
               <div className="lg:col-span-7">
                 <Label>{t('contact.getInTouch')}</Label>
-                <a href="mailto:forsythia.vn@proton.me" className="text-3xl md:text-5xl font-serif text-accent hover:text-navy transition-colors break-all">
-                  forsythia.vn@proton.me
+                <a href="mailto:hhoang91105@gmail.com" className="text-3xl md:text-5xl font-serif text-accent hover:text-navy transition-colors break-all">
+                  hhoang91105@gmail.com
                 </a>
                 <div className="mt-12">
                   <Label>{t('contact.social')}</Label>
